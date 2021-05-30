@@ -101,5 +101,8 @@
     <Resource Include="images\pipeBottom.png" />
     <Resource Include="images\pipeTop.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="flappyBird.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

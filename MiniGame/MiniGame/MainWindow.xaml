@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MiniGame"
         mc:Ignorable="d"
-        Title="MiniGame-Flappy Bird" Height="490" Width="700">
+        Title="MiniGame-Flappy Bird" Height="490" Width="700" ResizeMode="NoResize" Icon="flappyBird.png">
     <Canvas Name="MyCanvas" Focusable="True" KeyDown="KeyIsDown" KeyUp="KeyIsUp" Background="LightBlue">
 
         <Image Height="145" Width="200" Source="images/clouds.png" Canvas.Left="28" Canvas.Top="120" Tag="clouds"/>
