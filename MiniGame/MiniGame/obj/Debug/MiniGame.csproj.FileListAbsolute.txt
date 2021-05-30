@@ -1,0 +1,30 @@
+C:\Users\morva\Desktop\MiniGame\Flappy Bird WPF MOO ICT\bin\Debug\MiniGame.exe.config
+C:\Users\morva\Desktop\MiniGame\Flappy Bird WPF MOO ICT\bin\Debug\MiniGame.exe
+C:\Users\morva\Desktop\MiniGame\Flappy Bird WPF MOO ICT\bin\Debug\MiniGame.pdb
+C:\Users\morva\Desktop\MiniGame\Flappy Bird WPF MOO ICT\obj\Debug\MiniGame.csprojAssemblyReference.cache
+C:\Users\morva\Desktop\MiniGame\Flappy Bird WPF MOO ICT\obj\Debug\MainWindow.g.cs
+C:\Users\morva\Desktop\MiniGame\Flappy Bird WPF MOO ICT\obj\Debug\App.g.cs
+C:\Users\morva\Desktop\MiniGame\Flappy Bird WPF MOO ICT\obj\Debug\MiniGame_MarkupCompile.cache
+C:\Users\morva\Desktop\MiniGame\Flappy Bird WPF MOO ICT\obj\Debug\MiniGame_MarkupCompile.lref
+C:\Users\morva\Desktop\MiniGame\Flappy Bird WPF MOO ICT\obj\Debug\MainWindow.baml
+C:\Users\morva\Desktop\MiniGame\Flappy Bird WPF MOO ICT\obj\Debug\MiniGame.g.resources
+C:\Users\morva\Desktop\MiniGame\Flappy Bird WPF MOO ICT\obj\Debug\MiniGame.Properties.Resources.resources
+C:\Users\morva\Desktop\MiniGame\Flappy Bird WPF MOO ICT\obj\Debug\MiniGame.csproj.GenerateResource.cache
+C:\Users\morva\Desktop\MiniGame\Flappy Bird WPF MOO ICT\obj\Debug\MiniGame.csproj.CoreCompileInputs.cache
+C:\Users\morva\Desktop\MiniGame\Flappy Bird WPF MOO ICT\obj\Debug\MiniGame.exe
+C:\Users\morva\Desktop\MiniGame\Flappy Bird WPF MOO ICT\obj\Debug\MiniGame.pdb
+C:\Users\morva\Desktop\MiniGame\MiniGame\bin\Debug\MiniGame.exe.config
+C:\Users\morva\Desktop\MiniGame\MiniGame\bin\Debug\MiniGame.exe
+C:\Users\morva\Desktop\MiniGame\MiniGame\bin\Debug\MiniGame.pdb
+C:\Users\morva\Desktop\MiniGame\MiniGame\obj\Debug\MiniGame.csprojAssemblyReference.cache
+C:\Users\morva\Desktop\MiniGame\MiniGame\obj\Debug\MainWindow.g.cs
+C:\Users\morva\Desktop\MiniGame\MiniGame\obj\Debug\App.g.cs
+C:\Users\morva\Desktop\MiniGame\MiniGame\obj\Debug\MiniGame_MarkupCompile.cache
+C:\Users\morva\Desktop\MiniGame\MiniGame\obj\Debug\MiniGame_MarkupCompile.lref
+C:\Users\morva\Desktop\MiniGame\MiniGame\obj\Debug\MainWindow.baml
+C:\Users\morva\Desktop\MiniGame\MiniGame\obj\Debug\MiniGame.g.resources
+C:\Users\morva\Desktop\MiniGame\MiniGame\obj\Debug\MiniGame.Properties.Resources.resources
+C:\Users\morva\Desktop\MiniGame\MiniGame\obj\Debug\MiniGame.csproj.GenerateResource.cache
+C:\Users\morva\Desktop\MiniGame\MiniGame\obj\Debug\MiniGame.csproj.CoreCompileInputs.cache
+C:\Users\morva\Desktop\MiniGame\MiniGame\obj\Debug\MiniGame.exe
+C:\Users\morva\Desktop\MiniGame\MiniGame\obj\Debug\MiniGame.pdb
